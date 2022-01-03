@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "a bot i fuckin hacked baby lets go",
   "main": "main.ts",
-  "token": "OTI3Njc1NzQ4OTgxMDM1MDQ5.YdNrXQ.6DbgQbLgecwvZLzMyf5zcISdsbo"
+  "token": "OTI3Njc1NzQ4OTgxMDM1MDQ5.YdNrXQ.JvUlX58rSQxs9zUXQB5dYBORRCc"
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node main.ts",

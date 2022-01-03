@@ -1,0 +1,7 @@
+{
+  "token": "",
+  "prefix": "!",
+  "welcomeMessage": true,
+  "trustAllCommands": false,
+  "trustAllEvents": false
+}

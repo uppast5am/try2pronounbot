@@ -1,0 +1,38 @@
+{
+  "name": "pronoun-bot",
+  "version": "1.0.0",
+  "description": "a bot i fuckin hacked baby lets go",
+  "main": "main.ts",
+  "token": "OTI3Njc1NzQ4OTgxMDM1MDQ5.YdNrXQ.6DbgQbLgecwvZLzMyf5zcISdsbo"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node main.ts",
+    "debug": "node --inspect-brk ./bin/main.js"
+  },
+  "keywords": [
+    "pronouns",
+    "discord"
+  ],
+  "author": "satyrnidae",
+  "repository": "https://github.com/centurionfox/pronoun-bot",
+  "license": "MIT",
+  "dependencies": {
+    "discord-command-parser": "^1.2.1",
+    "discord.js": "git+https://github.com/discordjs/discord.js.git",
+    "enmap": "^4.7.1",
+    "enmap-sqlite": "^2.0.5",
+    "i18n": "^0.8.3",
+    "inversify": "^5.0.1",
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^4.0.6",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3",
+    "yargs-parser": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/i18n": "^0.8.3",
+    "@types/node": "^10.12.24",
+    "@types/sqlite3": "^3.1.4",
+    "@types/yargs-parser": "^11.0.2"
+  }
+}
